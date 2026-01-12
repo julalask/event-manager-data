@@ -3,21 +3,120 @@
     "id": "ev001",
     "title": "Koncert: Nocne Granie",
     "startAt": "2026-02-05 19:00",
-    "place": "Białystok, Klub Gwint",
+    "location": {
+      "city": "Białystok",
+      "venue": "Klub Gwint"
+    },
     "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
   },
   {
     "id": "ev002",
     "title": "Mecz: Jagiellonia vs Lech",
     "startAt": "2026-02-08 17:30",
-    "place": "Stadion Miejski",
+    "location": {
+      "city": "Białystok",
+      "venue": "Stadion Miejski"
+    },
     "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
   },
   {
     "id": "ev003",
-    "title": "Turniej: Siatkówka halowa",
+    "title": "Turniej siatkówki halowej",
     "startAt": "2026-02-10 10:00",
-    "place": "Hala Uczelni",
+    "location": {
+      "city": "Białystok",
+      "venue": "Hala Uczelni"
+    },
     "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/siatkowka1.jpg"
+  },
+  {
+    "id": "ev004",
+    "title": "Koncert: Jazz Evening",
+    "startAt": "2026-02-12 20:00",
+    "location": {
+      "city": "Warszawa",
+      "venue": "Jazz Club"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+  },
+  {
+    "id": "ev005",
+    "title": "Mecz koszykówki ligowej",
+    "startAt": "2026-02-15 18:00",
+    "location": {
+      "city": "Olsztyn",
+      "venue": "Hala Urania"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+  },
+  {
+    "id": "ev006",
+    "title": "Festiwal muzyki elektronicznej",
+    "startAt": "2026-02-18 21:00",
+    "location": {
+      "city": "Gdańsk",
+      "venue": "Plaża Stogi"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+  },
+  {
+    "id": "ev007",
+    "title": "Bieg uliczny 10 km",
+    "startAt": "2026-02-20 09:00",
+    "location": {
+      "city": "Łomża",
+      "venue": "Centrum miasta"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+  },
+  {
+    "id": "ev008",
+    "title": "Koncert symfoniczny",
+    "startAt": "2026-02-22 19:00",
+    "location": {
+      "city": "Warszawa",
+      "venue": "Filharmonia Narodowa"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+  },
+  {
+    "id": "ev009",
+    "title": "Turniej szachowy",
+    "startAt": "2026-02-24 11:00",
+    "location": {
+      "city": "Suwałki",
+      "venue": "Dom Kultury"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/siatkowka1.jpg"
+  },
+  {
+    "id": "ev010",
+    "title": "Mecz piłki ręcznej",
+    "startAt": "2026-02-26 16:00",
+    "location": {
+      "city": "Elbląg",
+      "venue": "Hala MOSiR"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+  },
+  {
+    "id": "ev011",
+    "title": "Stand-up comedy night",
+    "startAt": "2026-02-27 20:00",
+    "location": {
+      "city": "Kraków",
+      "venue": "Teatr Nowy"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+  },
+  {
+    "id": "ev012",
+    "title": "Pokaz filmowy pod chmurką",
+    "startAt": "2026-02-28 19:30",
+    "location": {
+      "city": "Gdynia",
+      "venue": "Skwer Kościuszki"
+    },
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
   }
 ]
