@@ -37,7 +37,7 @@
       "city": "Warszawa",
       "venue": "Jazz Club"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert2.jpg"
   },
   {
     "id": "ev005",
@@ -47,7 +47,7 @@
       "city": "Olsztyn",
       "venue": "Hala Urania"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz2.jpg"
   },
   {
     "id": "ev006",
@@ -57,7 +57,7 @@
       "city": "Gdańsk",
       "venue": "Plaża Stogi"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert3.jpg"
   },
   {
     "id": "ev007",
@@ -67,7 +67,7 @@
       "city": "Łomża",
       "venue": "Centrum miasta"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/bieg1.jpg"
   },
   {
     "id": "ev008",
@@ -77,7 +77,7 @@
       "city": "Warszawa",
       "venue": "Filharmonia Narodowa"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert4.jpg"
   },
   {
     "id": "ev009",
@@ -87,7 +87,7 @@
       "city": "Suwałki",
       "venue": "Dom Kultury"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/siatkowka1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/szachy1.jpg"
   },
   {
     "id": "ev010",
@@ -97,7 +97,7 @@
       "city": "Elbląg",
       "venue": "Hala MOSiR"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz3.jpg"
   },
   {
     "id": "ev011",
@@ -107,7 +107,7 @@
       "city": "Kraków",
       "venue": "Teatr Nowy"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/standup1.jpg"
   },
   {
     "id": "ev012",
@@ -117,6 +117,6 @@
       "city": "Gdynia",
       "venue": "Skwer Kościuszki"
     },
-    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/pokaz1.jpg"
   }
 ]
