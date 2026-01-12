@@ -4,20 +4,20 @@
     "title": "Koncert: Nocne Granie",
     "startAt": "2026-02-05 19:00",
     "place": "Białystok, Klub Gwint",
-    "image": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/koncert1.jpg"
   },
   {
     "id": "ev002",
     "title": "Mecz: Jagiellonia vs Lech",
     "startAt": "2026-02-08 17:30",
     "place": "Stadion Miejski",
-    "image": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/mecz1.jpg"
   },
   {
     "id": "ev003",
     "title": "Turniej: Siatkówka halowa",
     "startAt": "2026-02-10 10:00",
     "place": "Hala Uczelni",
-    "image": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/siatkowka1.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/julalask/event-manager-data/main/images/siatkowka1.jpg"
   }
 ]
